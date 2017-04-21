@@ -1,5 +1,13 @@
 # internal-training
 
+## Прочитанные книги
+* Getting real: The smarter, faster, easier way to build a successful web application
+* Бизнес с нуля. Метод Lean Startup
+
+В процессе чтения: Программист - прагматик
+
+## Дневник обучения
+
 ### 14.04.2017
 
 Ознакомился с микроразметкой, schema.org и microdata
