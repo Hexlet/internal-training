@@ -11,7 +11,9 @@
 ### 13.03.2017
 
 Установка и настройка Docker
+
 Ознакомление с Hexlet Exercise Kit
+
 Настройка рабочего окружения для работы с контентом
 
 Полезные ссылки:
@@ -22,6 +24,7 @@
 ### 14.03.2017
 
 Более глубокое изучение Git
+
 Изучение гибкой методологии разработки
 
 Полезные ссылки:
@@ -44,7 +47,7 @@
 Ознакомление с Terraform
 
 Полезные ссылки:
-* https://www.terraform.io/intro/getting-started/install.html 
+* https://www.terraform.io/intro/getting-started/install.html
 
 ### 14.04.2017
 
