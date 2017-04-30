@@ -68,6 +68,14 @@
 * http://guides.rubyonrails.org/action_view_overview.html
 * http://guides.rubyonrails.org/action_controller_overview.html
 
+### 12.04.2017
+
+Ознакомление и работа с миграциями в Ruby on Rails
+
+Полезные ссылки:
+* http://edgeguides.rubyonrails.org/active_record_migrations.html
+* http://api.rubyonrails.org/classes/ActiveRecord/Migration.html
+
 
 ### 14.04.2017
 
