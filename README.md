@@ -4,7 +4,9 @@
 * Getting real: The smarter, faster, easier way to build a successful web application
 * Бизнес с нуля. Метод Lean Startup
 
-В процессе чтения: Программист - прагматик
+В процессе чтения:
+* Программист - прагматик
+* Джоел о программировании
 
 ## Дневник обучения
 
@@ -34,6 +36,15 @@
 * https://ru.wikipedia.org/wiki/Agile_Manifesto
 
 
+### 27.03.2017
+
+Ознакомление c Ruby on Rails
+
+Полезные ссылки:
+* http://guides.rubyonrails.org/
+* http://rusrails.ru/getting-started-with-rails (на русском для начинающих)
+* https://www.railstutorial.org/book
+
 ### 28.03.2017
 
 Ознакомился с Ansible
@@ -44,10 +55,19 @@
 
 ### 29.03.2017
 
-Ознакомление с Terraform
+Ознакомление с Terraform и AWS
 
 Полезные ссылки:
 * https://www.terraform.io/intro/getting-started/install.html
+
+### 03.04.2017
+
+Изучение контроллеров, views, routes и тестов на Ruby on Rails
+
+Полезные ссылки:
+* http://guides.rubyonrails.org/action_view_overview.html
+* http://guides.rubyonrails.org/action_controller_overview.html
+
 
 ### 14.04.2017
 
