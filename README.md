@@ -12,10 +12,8 @@
 
 ### 13.03.2017
 
-Установка и настройка Docker
-
-Ознакомление с Hexlet Exercise Kit
-
+Установка и настройка Docker  
+Ознакомление с Hexlet Exercise Kit  
 Настройка рабочего окружения для работы с контентом
 
 Полезные ссылки:
@@ -25,8 +23,7 @@
 
 ### 14.03.2017
 
-Более глубокое изучение Git
-
+Более глубокое изучение Git  
 Изучение гибкой методологии разработки
 
 Полезные ссылки:
@@ -92,3 +89,10 @@
 * http://sql-joins.leopard.in.ua/
 * http://guides.rubyonrails.org/active_record_querying.html
 * http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html
+
+### 02.05.2017
+Concurrency and integrity, uniqueness validation
+
+Полезные ссылки:
+* http://api.rubyonrails.org/classes/ActiveRecord/Validations/ClassMethods.html
+* https://robots.thoughtbot.com/the-perils-of-uniqueness-validations
